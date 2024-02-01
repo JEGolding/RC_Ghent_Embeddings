@@ -1,0 +1,6 @@
+pandas
+holoviews
+bokeh
+numpy
+panel
+thisnotthat
