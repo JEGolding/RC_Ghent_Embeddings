@@ -1,13 +1,11 @@
 channels:
-- pyviz
-
-dependancies:
-- pandas
-- holoviews
-- bokeh
-- numpy
-- thisnotthat
-- panel
-
-packages:
-- jupyter-panel-proxy
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pandas
+  - holoviews
+  - bokeh
+  - numpy
+  - thisnotthat
+  - panel
+  - jupyter-panel-proxy
