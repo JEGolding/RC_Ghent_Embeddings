@@ -6,6 +6,7 @@ dependencies:
   - holoviews
   - bokeh
   - numpy
-  - thisnotthat
   - panel
   - jupyter-panel-proxy
+  - pip:
+    - thisnotthat
